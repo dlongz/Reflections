@@ -6,7 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 	The staging are is a temporary place to place your pending committed files.  While working directories are just a normal local directory and repositories are directories that are tracked by github.
 
-Add Test here
-This is another Test
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Since the staging are is more a a pre-load space.  Once I add a file and check status to double and tripple check. I'll only add the files that makes sense to the changes at the time.
 
 [next question]
