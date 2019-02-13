@@ -10,4 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Since the staging are is more a a pre-load space.  Once I add a file and check status to double and tripple check. I'll only add the files that makes sense to the changes at the time.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Any time you want to create another Version of a repository such as experiemental or mod change, ect.
+
 [next question]
