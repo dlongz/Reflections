@@ -14,4 +14,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Any time you want to create another Version of a repository such as experiemental or mod change, ect.
 
+How do the diagrams help you visualize the branch structure?
+
+	Visually seeing something usually helps me understand a topic better.  I now understand how the commits and branches interact with each other.
+
 [next question]
