@@ -18,4 +18,8 @@ How do the diagrams help you visualize the branch structure?
 
 	Visually seeing something usually helps me understand a topic better.  I now understand how the commits and branches interact with each other.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging two branches does what it says. It merges two branches of commits together.  What we get when we do this is a combination of the two functioning under the same head branch or master.
+
 [next question]
