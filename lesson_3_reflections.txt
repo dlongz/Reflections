@@ -16,4 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	Honestly, I do not know. It seems to be a save state before you officially pull or push.  You can check to see the changes.  I do not know how practical it is though.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Other than everyone being a yard away from each other and constantly talking it out; I don't see an easier way. Even if all of my teammates were right there, it wouldn't be easier.  In some cases definitely harder. #grateful
+
 [next question]
